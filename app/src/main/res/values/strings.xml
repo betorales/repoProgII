@@ -1,0 +1,13 @@
+<resources>
+    <string name="logo_app_name">Logo App</string>
+    <string name="app_name">ev-uno-restaurant-app</string>
+    <string name="name_dish_p_choclo">Pastel de Choclo</string>
+    <string name="name_dish_cazuela">Cazuela</string>
+    <string name="img_dish_pastel_choclo">Imagen ref pastel de choclo</string>
+    <string name="img_dish_cazuela">Imagen ref cazuela</string>
+    <string name="propina">Propina (10%)</string>
+    <string name="total_cuenta">Total</string>
+    <string name="total_comida">Comida</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="valor_mostrar">Valor: $</string>
+</resources>
